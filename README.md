@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Patrick MUKUNZI 😀
 
-## 🎓 I'm an BSc Data Business and ICT holder from Mount Kenya University
+## 🎓 I'm an BSc Business and ICT holder from Mount Kenya University
 
 ### A little more about me...
 
@@ -44,3 +44,21 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nobilis Summer bootcamp with Javascript and Htmls/CSS] (https://pazzo97.github.io/Capstone/)
 - [Awesome books with Javascript and Html/CSS] (https://github.com/Pazzo97/Portfolio-project)
+
+
+## :trophy: My Github Stats:
+
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Pazzo97)](https://github.com/Pazzo97/github-readme-stats">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Pazzo97&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazo97&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazzo97&hide=php&theme=tokyonight" />
+</a>
+</div>
+

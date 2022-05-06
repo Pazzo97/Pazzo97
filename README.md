@@ -16,7 +16,8 @@
 <p align="center">
  <a href="https://github.com/Pazzo97/Pazzo97/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/patrick-mukunzi-8389861a9/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:pazzomuk@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="mailto:pazzomuk@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> 
+  <a href="https://microverse-students.slack.com/team/U031N9FB9MZ" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/96/000000/slack-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />

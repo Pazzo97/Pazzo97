@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Patrick MUKUNZI 😀
 
-## 🎓 I'm an BSc Business and ICT holder from Mount Kenya University
+## 🎓 I'm a BSc Business and ICT holder from Mount Kenya University
 
 ### A little more about me...
 
@@ -43,8 +43,8 @@
 ### <p>Latest Projects <img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobilis Summer bootcamp with Javascript and Htmls/CSS] (https://pazzo97.github.io/Capstone/)
-- [Awesome books with Javascript and Html/CSS] (https://github.com/Pazzo97/Portfolio-project)
+- [Nobilis Summer bootcamp with Javascript and Htmls/CSS](https://pazzo97.github.io/Capstone/)
+- [Awesome books with Javascript and Html/CSS](https://github.com/Pazzo97/Portfolio-project)
 
 
 ## :trophy: My Github Stats:

@@ -51,7 +51,7 @@
 
 ## :trophy: My Github Stats:
 
-![Pazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazzo97&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pazzo97&theme=cobalt&show_icons=true&theme=radical)](https://git.io/streak-stats)
+![Pazzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pazzo97&show_icons=true&theme=algolia	)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pazzo97&show_icons=true&theme=algolia	)](https://git.io/streak-stats)
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazzo97&hide=php&theme=cobalt&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazzo97&hide=php&theme=algolia&layout=compact" />

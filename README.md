@@ -15,12 +15,11 @@
 ## :email: Find me on:
 
 <p align="center">
- <a href="https://github.com/Pazzo97/Pazzo97/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/patrick-mukunzi-8389861a9/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:pazzomuk@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://twitter.com/mukunzipat" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"> </a>
   <a href="https://microverse-students.slack.com/team/U031N9FB9MZ" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/96/000000/slack-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
 <br />
 
 
@@ -28,13 +27,14 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/144/000000/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/96/000000/css3.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-</p>
+ <img src="https://img.icons8.com/color-glass/96/000000/ruby-gemstone.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+ </p>
 
 <br />
 

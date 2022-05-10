@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Patrick MUKUNZI 😀
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img height="350px" width="30%" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
 ## 🎓 I'm a BSc Business and ICT holder from Mount Kenya University
 
 ### A little more about me...
@@ -47,19 +48,15 @@
 - [Awesome books with Javascript and Html/CSS](https://github.com/Pazzo97/Portfolio-project)
 
 
+
 ## :trophy: My Github Stats:
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=Pazzo97)](https://github.com/Pazzo97/github-readme-stats">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Pazzo97&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pazzo97&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pazzo97&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />  
+</p>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazo97&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazzo97&hide=php&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazzo97&hide=php&theme=cobalt&layout=compact" />
 </a>
-</div>
-

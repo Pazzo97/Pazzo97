@@ -45,7 +45,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Nobilis Summer bootcamp with Javascript and Htmls/CSS](https://pazzo97.github.io/Capstone/)
-- [Awesome books with Javascript and Html/CSS](https://pazzo97.github.io/TV-Shows/)
+- [Tv Show with Javascript and Htmls/CSS and APIs](https://pazzo97.github.io/TV-Shows/)
 
 
 

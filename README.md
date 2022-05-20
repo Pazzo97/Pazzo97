@@ -3,8 +3,9 @@
 ## 🎓 I'm a BSc Business and ICT holder from Mount Kenya University
 
 ### A little more about me...
-<img height="300px" width="30%" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img width="200" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
+<img src="https://github.com/edorado93/edorado93/blob/main/devcard.svg" width="200" align="right" alt="Sachin Malhotra's Dev Card"/>
 - 😄 He/Him
 - 🔭 I’m currently learning Software development remotely at Microverse.
 - 🌱 I’m currently learning to be more of who I am. 

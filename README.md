@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Patrick MUKUNZI 😀
-<img height="300px" width="30%" align="bottom" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 ## 🎓 I'm a BSc Business and ICT holder from Mount Kenya University
 
 ### A little more about me...
+<img height="300px" width="30%" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 - 😄 He/Him
 - 🔭 I’m currently learning Software development remotely at Microverse.

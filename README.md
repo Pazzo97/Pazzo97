@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Patrick MUKUNZI 😀
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="320px" width="auto" align="right" alt="Remotely"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="330px" width="auto" align="right" alt="Remotely"/>
 
 ## 🎓 I'm a BSc Business and ICT holder from Mount Kenya University
 

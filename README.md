@@ -31,6 +31,7 @@
 <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/144/000000/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-java-computer-programming-flaticons-flat-flat-icons.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="sql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/color/96/000000/css3.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/ios-filled/100/000000/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.icons8.com/color-glass/96/000000/ruby-gemstone.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">

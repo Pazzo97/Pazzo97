@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="320px" width="auto" align="right" alt="Remotely"/>
 
-## 🎓 I'm a BSc Business and ICT student from Mount Kenya University
+## 🎓 I'm a BSc Business and ICT holder from Mount Kenya University
 
 ### A little more about me...
 

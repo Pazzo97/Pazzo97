@@ -16,7 +16,7 @@
 ## :email: Find me on:
 
 <p align="center">
- <a href="https://www.linkedin.com/in/patrick-mukunzi-8389861a9/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/patrick-mukunzi/" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:pazzomuk@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a> 
  <a href="https://twitter.com/mukunzipat" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"> </a>
   <a href="https://microverse-students.slack.com/team/U031N9FB9MZ" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/96/000000/slack-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>

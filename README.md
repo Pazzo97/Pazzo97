@@ -46,7 +46,8 @@
 ### <p>Latest Projects <img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobilis Summer bootcamp with Javascript and Htmls/CSS](https://pazzo97.github.io/Capstone/)
+- [My Blog app with Ruby on Rails](https://github.com/Pazzo97/my-blog-2)
+- [Recipe app group project with Ruby on Rails](https://github.com/Pazzo97/Recipe_App_ROR)
 - [Tv Show with Javascript and Htmls/CSS and APIs](https://pazzo97.github.io/TV-Shows/)
 
 

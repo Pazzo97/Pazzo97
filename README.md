@@ -7,7 +7,7 @@
 ### A little more about me...
 
 - 😄 He/Him
-- 🔭 I’m currently learning Software development remotely at Microverse.
+- 🔭 I’m currently lookingfor a Software development job.
 - 🌱 I’m currently learning to be more of who I am. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
